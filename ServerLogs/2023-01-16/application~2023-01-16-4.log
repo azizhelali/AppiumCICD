@@ -1,0 +1,12 @@
+[ServerLogs INFO ] 2023-01-16 15:16:42.429 com.qa.BaseTest:105 - super after method
+[ServerLogs INFO ] 2023-01-16 15:16:43.337 com.qa.BaseTest:99 - super before method
+[ServerLogs INFO ] 2023-01-16 15:16:43.887 com.qa.tests.LoginTests:46 - 
+**********Starting Test:successfullLogin****************
+
+[ServerLogs INFO ] 2023-01-16 15:16:49.969 com.qa.BaseTest:308 - clear user name field
+[ServerLogs INFO ] 2023-01-16 15:16:50.666 com.qa.BaseTest:285 - login withbob@example.com
+[ServerLogs INFO ] 2023-01-16 15:16:51.346 com.qa.BaseTest:308 - clear password field
+[ServerLogs INFO ] 2023-01-16 15:16:52.021 com.qa.BaseTest:285 - password is 10203040
+[ServerLogs INFO ] 2023-01-16 15:16:52.706 com.qa.BaseTest:274 - press login button
+[ServerLogs INFO ] 2023-01-16 15:16:53.857 com.qa.BaseTest:293 - page title isProducts
+[ServerLogs INFO ] 2023-01-16 15:16:53.858 com.qa.tests.LoginTests:98 - Le résultat affiché du statut d'affichage de la page produit est trueLe résultat attendu du statut d'affichage de la page produit  est true

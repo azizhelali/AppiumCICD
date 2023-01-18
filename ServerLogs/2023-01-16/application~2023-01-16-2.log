@@ -1,0 +1,14 @@
+[ServerLogs INFO ] 2023-01-16 15:16:12.792 com.qa.BaseTest:135 - Appium server started
+[ServerLogs INFO ] 2023-01-16 15:16:12.835 com.qa.BaseTest:198 - log path: logs\Android_pixel_6
+[ServerLogs INFO ] 2023-01-16 15:16:26.757 com.qa.BaseTest:99 - super before method
+[ServerLogs INFO ] 2023-01-16 15:16:27.520 com.qa.tests.LoginTests:46 - 
+**********Starting Test:invalidPassword****************
+
+[ServerLogs INFO ] 2023-01-16 15:16:30.996 com.qa.BaseTest:308 - clear user name field
+[ServerLogs INFO ] 2023-01-16 15:16:32.015 com.qa.BaseTest:285 - login withbob@example.com
+[ServerLogs INFO ] 2023-01-16 15:16:32.727 com.qa.BaseTest:308 - clear password field
+[ServerLogs INFO ] 2023-01-16 15:16:33.314 com.qa.BaseTest:285 - password is 102040
+[ServerLogs INFO ] 2023-01-16 15:16:33.980 com.qa.BaseTest:274 - press login button
+[ServerLogs INFO ] 2023-01-16 15:16:34.809 com.qa.BaseTest:293 - err Text is Provided credentials do not match any user in this service.
+[ServerLogs INFO ] 2023-01-16 15:16:34.809 com.qa.tests.LoginTests:79 - Actual Error Text is : Provided credentials do not match any user in this service.
+Expected Error Text is :Provided credentials do not match any user in this service.

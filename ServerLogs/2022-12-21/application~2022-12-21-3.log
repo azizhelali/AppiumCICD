@@ -1,0 +1,10 @@
+[ServerLogs INFO ] 2022-12-21 12:59:25.113 com.qa.BaseTest:285 - page title isProducts
+[ServerLogs INFO ] 2022-12-21 12:59:25.214 com.qa.tests.LoginTests:98 - Le résultat affiché du statut d'affichage de la page produit est trueLe résultat attendu du statut d'affichage de la page produit  est true
+[ServerLogs INFO ] 2022-12-21 12:59:25.219 com.qa.tests.LoginTests:100 - Le titre affiché est Productset le tite attndu est Products
+[ServerLogs INFO ] 2022-12-21 12:59:25.279 com.qa.BaseTest:104 - super after method
+[ServerLogs INFO ] 2022-12-21 12:59:26.514 com.qa.BaseTest:266 - press Catalog button
+[ServerLogs INFO ] 2022-12-21 12:59:35.161 com.qa.BaseTest:266 - press log out button
+[ServerLogs INFO ] 2022-12-21 12:59:35.539 com.qa.tests.ProductTests:58 - ProductTest after method
+[ServerLogs INFO ] 2022-12-21 12:59:35.542 com.qa.BaseTest:104 - super after method
+[ServerLogs INFO ] 2022-12-21 12:59:38.523 com.qa.BaseTest:99 - super before method
+[ServerLogs INFO ] 2022-12-21 12:59:39.539 com.qa.tests.ProductTests:51 - ProductTest before method

@@ -1,0 +1,7 @@
+[ServerLogs INFO ] 2023-01-05 11:56:14.796 com.qa.BaseTest:280 - password is 10203040
+[ServerLogs INFO ] 2023-01-05 11:56:16.202 com.qa.BaseTest:269 - press login button
+[ServerLogs INFO ] 2023-01-05 11:56:24.104 com.qa.BaseTest:288 - page title isProducts
+[ServerLogs INFO ] 2023-01-05 11:56:24.106 com.qa.tests.LoginTests:98 - Le résultat affiché du statut d'affichage de la page produit est trueLe résultat attendu du statut d'affichage de la page produit  est true
+[ServerLogs INFO ] 2023-01-05 11:56:24.110 com.qa.tests.LoginTests:100 - Le titre affiché est Productset le tite attndu est Products
+[ServerLogs INFO ] 2023-01-05 11:56:24.117 com.qa.BaseTest:104 - super after method
+[ServerLogs INFO ] 2023-01-05 11:56:27.676 com.qa.BaseTest:158 - Appium server stopped

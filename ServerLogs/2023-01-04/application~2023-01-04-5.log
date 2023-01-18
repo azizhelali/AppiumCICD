@@ -1,0 +1,5 @@
+[ServerLogs INFO ] 2023-01-04 20:37:21.817 com.qa.BaseTest:160 - Appium server stopped
+[ServerLogs INFO ] 2023-01-04 20:39:19.741 com.qa.BaseTest:135 - Appium server started
+[ServerLogs INFO ] 2023-01-04 20:39:20.686 com.qa.BaseTest:160 - Appium server stopped
+[ServerLogs INFO ] 2023-01-04 20:53:06.288 com.qa.BaseTest:135 - Appium server started
+[ServerLogs INFO ] 2023-01-04 20:53:07.441 com.qa.BaseTest:160 - Appium server stopped

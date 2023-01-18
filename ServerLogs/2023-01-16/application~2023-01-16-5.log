@@ -1,0 +1,13 @@
+[ServerLogs INFO ] 2023-01-16 15:16:53.859 com.qa.tests.LoginTests:100 - Le titre affiché est Productset le tite attndu est Products
+[ServerLogs INFO ] 2023-01-16 15:16:53.865 com.qa.BaseTest:105 - super after method
+[ServerLogs INFO ] 2023-01-16 15:16:55.439 com.qa.BaseTest:161 - Appium server stopped
+[ServerLogs INFO ] 2023-01-16 15:34:27.299 com.qa.BaseTest:135 - Appium server started
+[ServerLogs INFO ] 2023-01-16 15:34:27.342 com.qa.BaseTest:198 - log path: logs\Android_pixel_6
+[ServerLogs INFO ] 2023-01-16 15:34:42.852 com.qa.BaseTest:99 - super before method
+[ServerLogs INFO ] 2023-01-16 15:34:43.724 com.qa.tests.LoginTests:46 - 
+**********Starting Test:successfullLogin****************
+
+[ServerLogs INFO ] 2023-01-16 15:34:50.388 com.qa.BaseTest:308 - clear user name field
+[ServerLogs INFO ] 2023-01-16 15:34:51.033 com.qa.BaseTest:285 - login withbob@example.com
+[ServerLogs INFO ] 2023-01-16 15:34:51.753 com.qa.BaseTest:308 - clear password field
+[ServerLogs INFO ] 2023-01-16 15:34:52.353 com.qa.BaseTest:285 - password is 10203040

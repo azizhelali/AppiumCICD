@@ -1,0 +1,13 @@
+[ServerLogs INFO ] 2023-01-04 14:02:22.767 com.qa.BaseTest:135 - Appium server started
+[ServerLogs INFO ] 2023-01-04 14:02:23.442 com.qa.BaseTest:160 - Appium server stopped
+[ServerLogs INFO ] 2023-01-04 14:05:43.704 com.qa.BaseTest:135 - Appium server started
+[ServerLogs INFO ] 2023-01-04 14:05:44.373 com.qa.BaseTest:160 - Appium server stopped
+[ServerLogs INFO ] 2023-01-04 14:07:25.296 com.qa.BaseTest:135 - Appium server started
+[ServerLogs INFO ] 2023-01-04 14:07:26.046 com.qa.BaseTest:160 - Appium server stopped
+[ServerLogs INFO ] 2023-01-04 14:10:44.881 com.qa.BaseTest:135 - Appium server started
+[ServerLogs INFO ] 2023-01-04 14:10:44.933 com.qa.BaseTest:198 - log path: logs\Android_Pixel_3a_API_33_x86_64
+[ServerLogs INFO ] 2023-01-04 14:10:44.933 com.qa.BaseTest:198 - log path: logs\Android_pixel_4a
+[ServerLogs INFO ] 2023-01-04 14:10:45.484 com.qa.BaseTest:160 - Appium server stopped
+[ServerLogs INFO ] 2023-01-04 14:14:39.856 com.qa.BaseTest:135 - Appium server started
+[ServerLogs INFO ] 2023-01-04 14:14:39.904 com.qa.BaseTest:197 - log path: logs\Android_pixel_4a
+[ServerLogs INFO ] 2023-01-04 14:14:39.904 com.qa.BaseTest:197 - log path: logs\Android_Pixel_3a_API_33_x86_64

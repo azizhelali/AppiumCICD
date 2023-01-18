@@ -1,0 +1,3 @@
+[ServerLogs INFO ] 2022-12-20 20:15:48.560 com.qa.tests.ProductTests:58 - ProductTest after method
+[ServerLogs INFO ] 2022-12-20 20:15:48.567 com.qa.BaseTest:104 - super after method
+[ServerLogs INFO ] 2022-12-20 20:15:49.917 com.qa.BaseTest:156 - Appium server stopped

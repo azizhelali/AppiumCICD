@@ -1,0 +1,13 @@
+[ServerLogs INFO ] 2023-01-16 15:16:34.814 com.qa.BaseTest:105 - super after method
+[ServerLogs INFO ] 2023-01-16 15:16:35.779 com.qa.BaseTest:99 - super before method
+[ServerLogs INFO ] 2023-01-16 15:16:36.329 com.qa.tests.LoginTests:46 - 
+**********Starting Test:invalidUserName****************
+
+[ServerLogs INFO ] 2023-01-16 15:16:39.394 com.qa.BaseTest:308 - clear user name field
+[ServerLogs INFO ] 2023-01-16 15:16:40.106 com.qa.BaseTest:285 - login withinvalidusername
+[ServerLogs INFO ] 2023-01-16 15:16:40.787 com.qa.BaseTest:308 - clear password field
+[ServerLogs INFO ] 2023-01-16 15:16:41.474 com.qa.BaseTest:285 - password is 10203040
+[ServerLogs INFO ] 2023-01-16 15:16:42.173 com.qa.BaseTest:274 - press login button
+[ServerLogs INFO ] 2023-01-16 15:16:42.427 com.qa.BaseTest:293 - err Text is Provided credentials do not match any user in this service.
+[ServerLogs INFO ] 2023-01-16 15:16:42.428 com.qa.tests.LoginTests:63 - Actual Error Text is : Provided credentials do not match any user in this service.
+Expected Error Text is :Provided credentials do not match any user in this service.

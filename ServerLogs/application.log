@@ -1,0 +1,6 @@
+[ServerLogs INFO ] 2023-01-16 15:34:53.072 com.qa.BaseTest:274 - press login button
+[ServerLogs INFO ] 2023-01-16 15:34:54.392 com.qa.BaseTest:293 - page title isProducts
+[ServerLogs INFO ] 2023-01-16 15:34:54.394 com.qa.tests.LoginTests:98 - Le résultat affiché du statut d'affichage de la page produit est trueLe résultat attendu du statut d'affichage de la page produit  est true
+[ServerLogs INFO ] 2023-01-16 15:34:54.400 com.qa.tests.LoginTests:100 - Le titre affiché est Productset le tite attndu est Products
+[ServerLogs INFO ] 2023-01-16 15:34:54.404 com.qa.BaseTest:105 - super after method
+[ServerLogs INFO ] 2023-01-16 15:34:56.747 com.qa.BaseTest:161 - Appium server stopped

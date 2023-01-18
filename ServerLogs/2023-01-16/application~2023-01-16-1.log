@@ -1,0 +1,10 @@
+[ServerLogs INFO ] 2023-01-16 15:15:18.341 com.qa.BaseTest:308 - clear user name field
+[ServerLogs INFO ] 2023-01-16 15:15:19.040 com.qa.BaseTest:285 - login withbob@example.com
+[ServerLogs INFO ] 2023-01-16 15:15:19.721 com.qa.BaseTest:308 - clear password field
+[ServerLogs INFO ] 2023-01-16 15:15:20.405 com.qa.BaseTest:285 - password is 10203040
+[ServerLogs INFO ] 2023-01-16 15:15:21.101 com.qa.BaseTest:274 - press login button
+[ServerLogs INFO ] 2023-01-16 15:15:22.302 com.qa.BaseTest:293 - page title isProducts
+[ServerLogs INFO ] 2023-01-16 15:15:22.303 com.qa.tests.LoginTests:98 - Le rÃ©sultat affichÃ© du statut d'affichage de la page produit est trueLe rÃ©sultat attendu du statut d'affichage de la page produit  est true
+[ServerLogs INFO ] 2023-01-16 15:15:22.304 com.qa.tests.LoginTests:100 - Le titre affichÃ© est Productset le tite attndu est Products
+[ServerLogs INFO ] 2023-01-16 15:15:22.306 com.qa.BaseTest:105 - super after method
+[ServerLogs INFO ] 2023-01-16 15:15:23.958 com.qa.BaseTest:161 - Appium server stopped

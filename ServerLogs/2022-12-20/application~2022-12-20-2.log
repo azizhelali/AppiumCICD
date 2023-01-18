@@ -1,0 +1,12 @@
+[ServerLogs INFO ] 2022-12-20 20:14:57.413 com.qa.BaseTest:300 - clear user name field
+[ServerLogs INFO ] 2022-12-20 20:14:58.077 com.qa.BaseTest:277 - login withbob@example.com
+[ServerLogs INFO ] 2022-12-20 20:14:58.872 com.qa.BaseTest:300 - clear password field
+[ServerLogs INFO ] 2022-12-20 20:14:59.489 com.qa.BaseTest:277 - password is 10203040
+[ServerLogs INFO ] 2022-12-20 20:15:00.222 com.qa.BaseTest:266 - press login button
+[ServerLogs INFO ] 2022-12-20 20:15:01.101 com.qa.BaseTest:300 - clear user name field
+[ServerLogs INFO ] 2022-12-20 20:15:01.644 com.qa.BaseTest:266 - press SLB Title
+[ServerLogs INFO ] 2022-12-20 20:15:01.724 com.qa.BaseTest:277 - login withbob@example.com
+[ServerLogs INFO ] 2022-12-20 20:15:02.488 com.qa.BaseTest:300 - clear password field
+[ServerLogs INFO ] 2022-12-20 20:15:03.145 com.qa.BaseTest:277 - password is 10203040
+[ServerLogs INFO ] 2022-12-20 20:15:03.907 com.qa.BaseTest:266 - press login button
+[ServerLogs INFO ] 2022-12-20 20:15:05.251 com.qa.BaseTest:285 - SLB Description From Product Details iscarry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.

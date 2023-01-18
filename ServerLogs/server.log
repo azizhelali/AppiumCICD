@@ -1,0 +1,13 @@
+2023-01-04 14:33:34:106 [Appium] Welcome to Appium v2.0.0-beta.48
+2023-01-04 14:33:34:109 [Appium] Non-default server args:
+2023-01-04 14:33:34:111 [Appium] { sessionOverride: true }
+2023-01-04 14:33:34:142 [Appium] Appium REST http interface listener started on 0.0.0.0:4723
+2023-01-04 14:33:34:142 [Appium] No drivers have been installed in C:\Users\medaz\.appium. Use the "appium driver" command to install the one(s) you want to use.
+2023-01-04 14:33:34:143 [Appium] No plugins have been installed. Use the "appium plugin" command to install the one(s) you want to use.
+2023-01-04 14:33:34:359 [HTTP] --> GET /status
+2023-01-04 14:33:34:359 [HTTP] {}
+2023-01-04 14:33:34:361 [AppiumDriver@9da3] Calling AppiumDriver.getStatus() with args: []
+2023-01-04 14:33:34:364 [AppiumDriver@9da3] Responding to client with driver.getStatus() result: {"build":{"version":"2.0.0-beta.48"}}
+2023-01-04 14:33:34:372 [HTTP] <-- GET /status 200 10 ms - 47
+2023-01-04 14:33:34:372 [HTTP] 
+2023-01-04 14:33:35:968 [HTTP] --> GET /status

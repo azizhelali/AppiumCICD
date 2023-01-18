@@ -1,0 +1,15 @@
+[ServerLogs INFO ] 2022-12-20 19:38:40.317 com.qa.tests.ProductTests:58 - ProductTest after method
+[ServerLogs INFO ] 2022-12-20 19:38:40.325 com.qa.BaseTest:104 - super after method
+[ServerLogs INFO ] 2022-12-20 19:38:41.818 com.qa.BaseTest:156 - Appium server stopped
+[ServerLogs INFO ] 2022-12-20 20:14:35.234 com.qa.BaseTest:133 - Appium server started
+[ServerLogs INFO ] 2022-12-20 20:14:35.293 com.qa.BaseTest:192 - log path: logs\Android_Pixel_3a_API_33_x86_64
+[ServerLogs INFO ] 2022-12-20 20:14:35.293 com.qa.BaseTest:192 - log path: logs\Android_pixel_4a
+[ServerLogs INFO ] 2022-12-20 20:14:51.470 com.qa.BaseTest:99 - super before method
+[ServerLogs INFO ] 2022-12-20 20:14:51.784 com.qa.BaseTest:99 - super before method
+[ServerLogs INFO ] 2022-12-20 20:14:53.637 com.qa.tests.ProductTests:51 - ProductTest before method
+[ServerLogs INFO ] 2022-12-20 20:14:53.731 com.qa.tests.ProductTests:54 - 
+**********Starting Test:validateProductOnProductDetailsPage****************
+
+[ServerLogs INFO ] 2022-12-20 20:14:53.731 com.qa.tests.LoginTests:46 - 
+**********Starting Test:successfullLogin****************
+

@@ -1,0 +1,13 @@
+[ServerLogs INFO ] 2023-01-05 11:54:55.233 com.qa.BaseTest:136 - Appium server already running
+[ServerLogs INFO ] 2023-01-05 11:54:55.354 com.qa.BaseTest:194 - log path: logs\Android_Pixel_3a_API_33_x86_64
+[ServerLogs INFO ] 2023-01-05 11:54:55.354 com.qa.BaseTest:194 - log path: logs\Android_pixel_4a
+[ServerLogs INFO ] 2023-01-05 11:55:27.163 com.qa.BaseTest:133 - Appium server started
+[ServerLogs INFO ] 2023-01-05 11:55:27.278 com.qa.BaseTest:194 - log path: logs\Android_pixel_4a
+[ServerLogs INFO ] 2023-01-05 11:55:27.281 com.qa.BaseTest:194 - log path: logs\Android_Pixel_3a_API_33_x86_64
+[ServerLogs INFO ] 2023-01-05 11:56:03.607 com.qa.BaseTest:99 - super before method
+[ServerLogs INFO ] 2023-01-05 11:56:04.991 com.qa.tests.LoginTests:46 - 
+**********Starting Test:successfullLogin****************
+
+[ServerLogs INFO ] 2023-01-05 11:56:11.230 com.qa.BaseTest:303 - clear user name field
+[ServerLogs INFO ] 2023-01-05 11:56:12.185 com.qa.BaseTest:280 - login withbob@example.com
+[ServerLogs INFO ] 2023-01-05 11:56:13.890 com.qa.BaseTest:303 - clear password field
