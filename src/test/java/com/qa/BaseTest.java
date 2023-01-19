@@ -133,8 +133,6 @@ public class BaseTest {
             server.start();
             server.clearOutPutStreams();
             utils.log().info("Appium server started");
-            //ExtentReport.getTest().log(Status.INFO,"Appium server started");
-            //ExtentReport.getTest().log(Status.INFO,"Appium server started");
         } else {
             utils.log().info("Appium server already running");
             //ExtentReport.getTest().log(Status.INFO,"Appium server already running");
